@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(163, 129, 194);
+}
+body{
+    background-image: url(/imagenes/fatima.jpeg);
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body{
+    text-align: center;
+    margin-top: 100px;
+}
+div{
+    margin-top: 390px;
+}
+
+
+
